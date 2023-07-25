@@ -1,10 +1,7 @@
 * quux-time
 
-
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/qitab/quux-time.git   |
-| commit  |   |
-| systems | quux-time |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/qitab/quux-time.git |
+| commit  | 66517ae                                                |
+| systems | quux-time                                              |
+|---------+--------------------------------------------------------|
